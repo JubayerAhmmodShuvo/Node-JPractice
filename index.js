@@ -11,6 +11,8 @@ const chitkarDibo = () => {
 eventEmitter.on('scream', chitkarDibo);
 eventEmitter.emit('scream');
 
+//workking
+
 // const server = http.createServer((req, res) => {
 //   // const address_url = 'http://localhost:5000/contact?name=shuvo&country=bd';
 //   // const parsed_url = url.parse(address_url, true);
